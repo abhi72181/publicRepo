@@ -1,4 +1,4 @@
-# Data Structures 101 (Lists, Sets, and Tuples in Python)
+![Untitled](https://github.com/user-attachments/assets/9fd29571-65e2-487f-a54c-789b05857330)# Data Structures 101 (Lists, Sets, and Tuples in Python)
 
 ---
 
@@ -274,8 +274,10 @@
     This is NH-44 Highway which is passing through different states;
     
     Could you pls put this in a list and print it one by one;
-    
-    ![Untitled](Untitled.png)
+
+    ![Untitled](https://github.com/user-attachments/assets/26ed11ff-777b-4061-ad7e-c149fa5a570a)
+
+  
     
     ```python
     highways= [“Jammu-Kashmir”, “Karnataka”, “Tamil Nadu”];
@@ -442,7 +444,8 @@
     In Python, mutability means you can directly modify an object after the creation
     . For example, a list is a mutable object. After creating a list, you can add, modify, or remove elements from it.
     
-    ![Untitled (3).png](Untitled_(3).png)
+    ![Untitled_(3)](https://github.com/user-attachments/assets/1cdf1798-847d-4cb8-a3b7-79e2ede5ef3d)
+
     
     **ALT**
     
@@ -451,7 +454,8 @@
     In Python, immutability means you cannot directly modify an object after the creation
     . For example, Tuple is an immutable object. After creating a tuple, you cannot add, modify, or remove elements from it.
     
-    ![Untitled (4).png](Untitled_(4).png)
+    ![Untitled_(4)](https://github.com/user-attachments/assets/6428e519-1bbe-4857-8406-138b6058f52b)
+
     
     **ALT**
     
@@ -470,7 +474,8 @@
     
     Here in these four operations, you need to find the mutable and immutable objects
     
-    ![Untitled](Untitled%201.png)
+   ![Untitled 1](https://github.com/user-attachments/assets/0dce0124-c84b-43b6-bcba-68a65e71294b)
+
     
     ```python
     Such data types whose content can be changed are called 
@@ -634,13 +639,16 @@
     
     ## Need to Create tuples
     
-    ![Untitled](Untitled%202.png)
+    ![Untitled 2](https://github.com/user-attachments/assets/642e953b-5a5e-4e10-95c6-682039f5792b)
+
     
     • Sometimes you don’t want data to be modified. If the values in the collection are meant to remain program’s life, use the program, using a tuple instead of list guards against accidental modification.
     
-    ![Untitled](Untitled%203.png)
+    <img width="964" alt="Untitled 3" src="https://github.com/user-attachments/assets/de712d26-f3f9-40e2-add4-6abfa5b01bb5">
+
     
-    ![Untitled](Untitled%204.png)
+    <img width="944" alt="Untitled 4" src="https://github.com/user-attachments/assets/5a29b89c-dc8e-455c-b121-145c5151ecde">
+
     
     ```python
     subjects = ('dsa', 'frontend', 'development', 'communication-skills' )
