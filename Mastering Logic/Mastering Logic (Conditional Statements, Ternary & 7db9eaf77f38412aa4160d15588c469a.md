@@ -111,7 +111,8 @@
     
     ### Greater Than Operator ( > )
     
-    ![Untitled](Untitled.png)
+    ![Untitled](https://github.com/user-attachments/assets/26aa26fb-8dd3-4c61-9de5-f35adf94ad84)
+
     
     - The first value is strictly greater than the second value. For ex-
     - The first value is less than or equal to the second value. For ex-
@@ -131,7 +132,8 @@
     
     ### Less Than Operator ( < )
     
-    ![Untitled](Untitled%201.png)
+    ![Untitled 1](https://github.com/user-attachments/assets/36fc8d82-8d54-4731-98ef-00722ebce68f)
+
     
     - The first value is strictly less than the second value. For ex :
     - The first value is greater than or equal to the second value. For ex :
@@ -141,7 +143,11 @@
     - The first value is strictly less than or equal to the second value. For ex :
     - The first value is greater than the second value. For ex :
     
-    [Untitled design (1).mp4](Untitled_design_(1).mp4)
+    
+
+https://github.com/user-attachments/assets/526f8602-68ed-453a-9530-fcca99a964de
+
+
     
     ### Problems
     
@@ -181,7 +187,8 @@
     
     It checks whether the two operands are identical or not.
     
-    ![Screenshot (309).png](Screenshot_(309).png)
+    ![Screenshot_(309)](https://github.com/user-attachments/assets/a131ed5c-2351-4244-abb7-40f78ea53b35)
+
     
     **For Ex :**
     
@@ -225,7 +232,8 @@
     
      **!=** opposite of **==**
     
-    ![Screenshot (310).png](Screenshot_(310).png)
+    ![Screenshot_(310)](https://github.com/user-attachments/assets/8ba36ac0-0aa8-464c-8c6a-46b8b5c574b2)
+
     
     **For Ex :** 
     
@@ -264,12 +272,14 @@ Conditional Statements in Python perform different computations or actions depen
 
 Conditional statements are handled by **IF statements** in Python.
 
-![Untitled](Untitled%202.png)
+![Untitled 2](https://github.com/user-attachments/assets/3f81c31d-a9d6-474d-a19e-bbc53ab5f9e3)
+
 
 - Conditional statements are used **to decide the flow of execution based on different conditions**. If a condition is true, you can perform one action and if the condition is false, you can perform another action.
 - Through Conditional Statements, we can control which code needs to run or which code will not run.
     
-    ![Untitled](Untitled%203.png)
+![Untitled 3](https://github.com/user-attachments/assets/e3d19694-c12e-43a1-8588-f3d75fc1ee9c)
+
     
 - Code runs based on certain conditions.
     - **For Ex:** let's understand with the analogy, the **traffic light controls the flow of vehicles on the road**. Depending upon the color of the light, the actions happened. If the light is green, then it is a signal to move whereas if the light is red then it is a signal to stop.
@@ -292,9 +302,11 @@ There are four types of conditional statements in Python.
 
 ### Instructor Task (5 mins): Discuss the if statement with examples
 
-![Untitled](Untitled%204.png)
+![Untitled 4](https://github.com/user-attachments/assets/f5cc5602-9724-4654-840b-2ec9b0e83642)
 
-![Untitled](Untitled%205.png)
+
+![Untitled 5](https://github.com/user-attachments/assets/8e52ad61-630a-4c15-a5f6-5be59457d13e)
+
 
 - It is to specify a block of Python code to be executed if a condition is true.
 - **SYNTAX**➖
@@ -381,7 +393,8 @@ if(c):
 
 ### Instructor Task (5 mins): Discuss the if/else statements with real-life examples
 
-![Untitled](Untitled%206.png)
+![Untitled 6](https://github.com/user-attachments/assets/e2c83018-ffbd-405f-b1a3-474f5552e0d1)
+
 
 - The `if...else` is a type of conditional statement that will execute a block of code when the condition in the `if` statement is `truthy`. If the condition is `falsy`, then the `else` the block will be executed.
 - Here is a list of `falsy` values:
@@ -432,8 +445,9 @@ else:
 ### Instructor Task (5 mins): Understanding if-else with Hotel Bill Example
 
    
+![Untitled 7](https://github.com/user-attachments/assets/bd4b35ff-3e1d-41dd-95a8-16a2d318ccfb)
 
-![Untitled](Untitled%207.png)
+
 
 ### Student Task: Task For Students
 
@@ -470,7 +484,8 @@ else:
 - If the condition for `if` is `False`, it checks the condition of the next `elif` block and so on.
 - If all the conditions are `False`, the body of else is executed.
     
-    ![c-nested-else-if.svg](c-nested-else-if.svg)
+![Untitled](https://github.com/user-attachments/assets/439ac302-9aab-4787-a6ca-3e1c2145ed2e)   
+
     
 - Only one block among the several `if...elif...else` blocks is executed according to the condition.
 - The `if` block can have only one `else` block. But it can have multiple `elif` blocks.
@@ -479,7 +494,8 @@ else:
 
 **Problem Statement:** According to the total_bill, the discount will be applied.
 
-![Screenshot (322).png](Screenshot_(322).png)
+![Screenshot_(322)](https://github.com/user-attachments/assets/5c3ec1bb-2d20-4826-a2f8-6d013e3dd114)
+
 
 **Code 5: For a Restaurant, write the program for the following total_bill > 500 Then print 10% discount total_bill > 1000 Then print 20% discount Otherwise No discount**
 
@@ -705,7 +721,9 @@ Python provides three logical operators:
 
 - In a chain of `and`, each value will be evaluated from left to right. If any of these values happen to be **false**, that value will be returned and the chain will not continue.
     
-    ![pythonAnd.png](pythonAnd.png)
+    
+<img width="790" alt="pythonAnd" src="https://github.com/user-attachments/assets/29988420-e4cb-453c-84b4-3e986e02e345">
+
     
 
 - **For Example:**
@@ -851,17 +869,19 @@ else:
 - The `or` operator behaves exactly like the `and` does, only in reverse! While a chain of `and` s  will break if a falsy value is found, a chain of `or`s will break when it finds a **truthy** value. And, just like with the **`and`** s, if there are no truthy values and the end of the chain is reached, the last value in that chain is returned.
 - If any of the statement is true, then the result will be true
     
-    ![or.png](or.png)
+    <img width="796" alt="or" src="https://github.com/user-attachments/assets/5c8381dc-88d6-44cb-a905-1ed892a7c18e">
+
     
 
 - **For Example,** Drivezy is a Renting bike service Startup, If you want to rent a bike then you need to submit any of the Identity Document
     
     **Aadhar Card or PAN Card or License or Voter id Card**
     
-    ![ids.png](ids.png)
-    
+    <img width="372" alt="ids" src="https://github.com/user-attachments/assets/75ff660d-21d6-450d-9af1-ec26bae1c6cf">
 
-![oropera.png](oropera.png)
+    
+<img width="271" alt="oropera" src="https://github.com/user-attachments/assets/3a88e959-b14c-4265-b175-5a414107ad64">
+
 
       and many more cases are possible.
 
@@ -872,7 +892,8 @@ else:
 - **Example**➖
     - **Masai asks for documents After Msat is in the documentation phase, either submit the 12th Mark Sheet or Diploma.**
     
-    ![or12.png](or12.png)
+   <img width="184" alt="or12" src="https://github.com/user-attachments/assets/6b533a1b-4c7c-41dc-af97-e91b2b44f140">
+
     
        Show in Replit
     
@@ -926,7 +947,8 @@ else:
 
 **Male: age≥21,   Female: age≥18**
 
-![Untitled](Untitled%208.png)
+<img width="360" alt="Untitled 8" src="https://github.com/user-attachments/assets/0ef45bca-f4c2-42fa-b58b-db77bd9f33f4">
+
 
 ```python
 gender = "female";
@@ -942,7 +964,8 @@ else:
 
 - On applying to a boolean value, the *not* operator turns *true* to *false* and *false* to *true*.
 
-![Untitled](Untitled%209.png)
+![Untitled 9](https://github.com/user-attachments/assets/15a6a885-fd58-433b-a8b5-e3ffde2d8ae0)
+
 
 - For Example :
 - For any website, there are multiple roles
@@ -964,11 +987,14 @@ else:
     - When the umpire asks for the option of **Head or Tail.**
     - **Not Friends == Enemies**
 
-![Untitled](Untitled%2010.png)
+![Untitled 10](https://github.com/user-attachments/assets/2a853279-97fa-4fbc-933d-8801101d2173)
 
-![Untitled](Untitled%2011.png)
 
-![Untitled](Untitled%2012.png)
+![Untitled 11](https://github.com/user-attachments/assets/fc2d741b-e4a1-4302-aa76-4aa1b2dad0b4)
+
+
+<img width="779" alt="Untitled 12" src="https://github.com/user-attachments/assets/28a543c0-aa76-4613-ae80-e356a003bad4">
+
 
 ## IW Assignment
 
@@ -1021,7 +1047,8 @@ else:
 
 ### Code 16: Sam wants to throw a party; he calls an event organizer and gives instructions about an entry that only those people will get an entry who are belongs to the family or those who are invited.
 
-![Untitled](Untitled%2013.png)
+![Untitled 13](https://github.com/user-attachments/assets/3b2d442f-2a14-4374-b5f9-3e4ae1e13b60)
+
 
 ```python
 Invitation_card = False;
@@ -1041,11 +1068,14 @@ else:
 
 - **Increment means increasing the value.**
     
-    ![stair_animations_inc.gif](stair_animations_inc.gif)
+  ![stair_animations_inc](https://github.com/user-attachments/assets/aa18a30f-17bc-4be7-906f-5ecad4c07112)
+
+    
     
 - **Decrement means decreasing the value.**
     
-    ![Untitled](Untitled.gif)
+    ![Untitled](https://github.com/user-attachments/assets/8639926d-1d39-493a-9f32-cd31e297d53b)
+
     
 
 ```python
@@ -1115,14 +1145,16 @@ print(d); # 9
 
 - Take the example of **SPOTIFY or GANA.com**, there is a thing called a loop, that plays something over and over again.
     
-    ![spotify.png](spotify.png)
-    
+   
+    <img width="364" alt="spotify" src="https://github.com/user-attachments/assets/dd56c6df-9ff8-4d85-8b44-3a2846e7c048">
+
 
 - **Guests Coming** ➖There are 10 guests coming to my home, After 2-3 days they decided to leave their home. They all have the train on the same day and at the same time. I need to drop them off at the railway station but I have one bike which can only take one person at a time.
     
     In this case, I need to drop each guest one by one. Taking the First guest to the railway station, dropping them off, and arriving back and following the same procedure again and again till the end.
     
-    ![Screenshot (325).png](Screenshot_(325).png)
+    ![Screenshot_(325)](https://github.com/user-attachments/assets/fbc3a257-89af-4ae5-89ff-3e309515961f)
+
     
 - **Loop Examples**➖
     - ***Days of the week***➖
@@ -1147,8 +1179,8 @@ print(d); # 9
 - **Each time** the loop is executed, **the variable will change** and eventually become larger or less than the number in the condition, stopping the loop.
 - Give an example of a **1m jump till the person is reaching the 100m mark**
     
-    ![Untitled](Untitled%2014.png)
-    
+   ![Untitled 14](https://github.com/user-attachments/assets/996738f7-5805-40c9-8dfe-0e362606ff58)
+
 
 - **SYNTAX**➖
     
@@ -1173,7 +1205,8 @@ print(d); # 9
     
 - **Dry Run of the above code for better visualization**➖
     
-    ![screen.png](screen.png)
+    <img width="359" alt="screen" src="https://github.com/user-attachments/assets/69dd3a2e-a9b5-4e95-a6aa-590c71103563">
+
     
 - Table for **DRY RUNNING**.
     
@@ -1182,7 +1215,8 @@ print(d); # 9
 - **It will run for infinite times.**
 - Show it on **REPLIT.**
 
-![Screenshot (324).png](Screenshot_(324).png)
+![Screenshot_(324)](https://github.com/user-attachments/assets/67549b77-1008-4502-b352-1cabafa6695e)
+
 
 ### **Activity Time:**
 
@@ -1241,7 +1275,8 @@ while(jump<=100):
 
 ### **Code 8: Reverse Loop from 100 to 0 [ 1 unit jump at a time ]**
 
-![Untitled](Untitled%2015.png)
+![Untitled 15](https://github.com/user-attachments/assets/da0a75dd-e137-4695-bb3f-65c76c4c9b6b)
+
 
 ```python
 position = 100;
@@ -1252,7 +1287,8 @@ while(position>=0):
 
 ### Sending Notice to 1000 Employees
 
-![Screenshot (336).png](Screenshot_(336).png)
+
+![Screenshot_(336)](https://github.com/user-attachments/assets/d4ab3f7e-15b1-4485-a492-8e9b35480ea0)
 
 ## Break & Continue
 
@@ -1269,7 +1305,8 @@ while(position>=0):
     - Again I took the Second Guest and follow the same.
     - Now, Next, I took the third guest to the Railway station and found that Train has gone.
     
-    ![Untitled](Untitled%2016.png)
+    ![Untitled 16](https://github.com/user-attachments/assets/f6f2c839-d6e1-4056-a5fb-093da7c95c07)
+
     
     **So, Will I continue the above procedure or stopped it?**
     
