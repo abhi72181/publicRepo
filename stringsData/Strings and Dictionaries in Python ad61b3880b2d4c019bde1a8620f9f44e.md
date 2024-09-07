@@ -4,7 +4,8 @@
 
 ## Strings
 
-![Untitled](Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/e0fa01e3-b352-4289-82d9-177cf301c0d7)
+
 
 - The string is a group of characters
 - Declared using inverted commas “ ”
@@ -34,9 +35,11 @@
 
 - Lots of information we stored, it actually stored as a string
 
-![Untitled](Untitled%201.png)
+![Untitled 1](https://github.com/user-attachments/assets/d04ec293-38ac-4f7d-93a9-91f01283c931)
 
-![Untitled](Untitled%202.png)
+
+![Untitled 2](https://github.com/user-attachments/assets/9ed44001-58dd-43be-8c66-ca93651776ae)
+
 
 - For Example, The name of the product, Pincode, and mobile number also, Since we will not perform any mathematical operation on mobile numbers, we considered i a string.
 
@@ -136,7 +139,8 @@ Suppose you are creating an E-commerce website for your company. What things you
 
 4-Discount coupons
 
-![Untitled](Untitled%203.png)
+![Untitled 3](https://github.com/user-attachments/assets/ae865591-092d-4c5e-b066-792fc8453d58)
+
 
 # Functions with strings
 
@@ -331,7 +335,8 @@ print(output)
 
 - Python dictionary is an **ordered collection of items**.
 
-![Untitled](Untitled%204.png)
+![Untitled 4](https://github.com/user-attachments/assets/759a971f-ebd7-44db-9714-1d93d2dd948f)
+
 
 - As of Python version 3.7, dictionaries are *ordered*. In Python 3.6 and earlier, dictionaries are *unordered*.
 - Dictionaries are **optimized to retrieve values when the key is known.**
@@ -410,7 +415,8 @@ While the values can be of any data type and can repeat, keys must be of **immut
 
 Here, Instructor needs to compare the List and Dictionaries. What types of things are similar and what things are going to be different
 
-![Untitled](Untitled%205.png)
+![Untitled 5](https://github.com/user-attachments/assets/4f63cb28-9b7a-4780-8c5e-c41723e99b75)
+
 
 ### Code 1: Print the dictionary and type of it
 
