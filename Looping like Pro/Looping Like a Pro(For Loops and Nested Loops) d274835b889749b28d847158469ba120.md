@@ -29,7 +29,8 @@
     
     The `start` and `step` parameters in `range()` are **optional**.
     
-    ![Screenshot (355).png](Screenshot_(355).png)
+   ![Screenshot_(355)](https://github.com/user-attachments/assets/8644b431-1ef1-498f-a3aa-afcf2b5452a8)
+
     
     ### **range() in for Loop**
     
@@ -88,7 +89,8 @@
     
     ## Examples➖
     
-    ![Screenshot_20221201_132255.png](Screenshot_20221201_132255.png)
+   <img width="367" alt="Screenshot_20221201_132255" src="https://github.com/user-attachments/assets/85514dee-0988-4b94-8edb-9d1739da56a7">
+
     
     - Let’s say you want to display Coffee one time then you will print and do the print("Coffee") one time.
     - Similarly, If it is two then you will write print twice
@@ -98,7 +100,8 @@
     
     ### The sequence of Execution of For Loop
     
-    ![forLoop.png](forLoop.png)
+    <img width="455" alt="forLoop" src="https://github.com/user-attachments/assets/28d8e89f-8954-4785-afa8-2709223a0610">
+
     
     - Start -> Stop-> Loop Body/Code -> Step -> Stop -> Loop Body/Code -> Step and so one
     1. The **Start** is denoted as 1, the **Stop** is denoted as 2, **Loop Body** denotes as 3, **Step** is denoted as 4.
@@ -108,7 +111,8 @@
     
     ### Example 1: Print Hello 4 times.
     
-    ![Screenshot (348).png](Screenshot_(348).png)
+    ![Screenshot_(348)](https://github.com/user-attachments/assets/f9321c4f-936c-4125-93ac-a3a7e75002cf)
+
     
     ```python
     for i in range(1,5,1):
@@ -341,7 +345,8 @@
     
     ## While vs For
     
-    ![Screenshot (347).png](Screenshot_(347).png)
+    ![Screenshot_(347)](https://github.com/user-attachments/assets/db340701-5822-41f2-9567-82215b015e9c)
+
     
     - Write the **syntax of the while loop** and **for loop side by side** to make them visualize that both the loops are the same.
     
@@ -356,22 +361,25 @@
         - Suppose you went to a Gol Gappa Shop and you ate 4 gol-gappas in a sequence. You can consider this as a loop where you have eaten 4 gol gappas in a sequence.
         - In another scenario, Suppose you went to a Gol Gappas Shop with 5 other family members. Each Member of the family ate 4 gol-gappas. You can consider this as a loop of 4 gol-gappas which run 5 times because of the 5 family members.
     
-    ![Untitled](Untitled.png)
+    ![Untitled](https://github.com/user-attachments/assets/3b880322-04c0-4185-84b7-99660a23e323)
+
     
     ## Calendar Example - Nested Loop
-    
-    ![Untitled](Untitled%201.png)
+
+   ![Untitled 1](https://github.com/user-attachments/assets/b448f7ff-362a-496b-9933-8812519758af)
+
     
     ## Week Repetition - Nested Loop
     
-    ![Untitled](Untitled%202.png)
+    ![Untitled 2](https://github.com/user-attachments/assets/03b8d459-70a6-44e1-80ed-67ddb6c01d73)
+
     
     The "**inner loop**" will be executed one time for each iteration of the "**outer loop**":
     
     - **SYNTAX**➖
         
-        ![Untitled](Untitled%203.png)
-        
+        ![Untitled 3](https://github.com/user-attachments/assets/99188167-9ddf-4402-b76d-a5442dae68a2)
+
     
     ## Dry Run of problem
     
@@ -407,7 +415,8 @@
     
     Dry run of the above code by making a table.
     
-    ![dryrunTab.png](dryrunTab.png)
+    <img width="452" alt="dryrunTab" src="https://github.com/user-attachments/assets/df836c10-1a41-4d63-8a64-7bdeb5205498">
+
     
     ### Code 4:  **Print “Hello” in horizontal order using a nested loop.**
     
@@ -421,11 +430,13 @@
     
     Dry run of the above code by making a table.
     
-    ![dryrunTab.png](dryrunTab.png)
+  <img width="452" alt="dryrunTab" src="https://github.com/user-attachments/assets/10b97117-a7cf-4988-9f2e-1fbf9714bf3f">
+
     
     ## Father-Son Marathon
     
-    ![popssos.png](popssos.png)
+    <img width="161" alt="popssos" src="https://github.com/user-attachments/assets/192132bd-e555-4dc1-851c-3f6d0cdbce21">
+
     
     There was a father who trains his son for the next Olympics running competition. Every day Father used to give some targets to his son
     
@@ -441,7 +452,8 @@
     
     Once upon a time,  a father and son were farmers. They once decided that they do plantation of trees in their field. Since Father is very old, he is unable to do that much work whereas the son is proactive, that’s why the father’s responsibility is to make sure how many fields are done whereas the son has the responsibility of putting the seeds in the field.
     
-    ![Untitled](Untitled%204.png)
+    <img width="365" alt="Untitled 4" src="https://github.com/user-attachments/assets/5b09ca5c-83b5-41b7-a369-1b2910f043a1">
+
     
     ### **Code 6: Father has 5 fields. Each field son needs to put 10 seeds**
     
@@ -609,7 +621,8 @@
     
     Sultan and Bahubali were good friends, but Sultan was the king whereas Bahubali doesn’t have any kingdom. Later Sultan gave one part of his empire to Bahubali with a condition that Bahubali will never try to cross the status of Sultan and if he tries then he will attack the Prithviraj clan.
     
-    ![Untitled](Untitled%205.png)
+    ![Untitled 5](https://github.com/user-attachments/assets/4574cd50-5d71-471b-8362-7325bfce3bb7)
+
     
     ### **Code 13: Using Break**
     
