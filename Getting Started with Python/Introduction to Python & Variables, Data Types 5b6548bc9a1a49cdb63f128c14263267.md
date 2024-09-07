@@ -4,13 +4,16 @@
 
   Search Top IT Companies.
 
-![searchPuzzle.png](searchPuzzle.png)
 
-![Screenshot (281).png](Screenshot_(281).png)
+![searchPuzzle](https://github.com/user-attachments/assets/1d3250e5-1367-4c2c-b4fa-d91d776a8414)
+
+![Screenshot_(281)](https://github.com/user-attachments/assets/a03fa0cd-debd-4a38-a506-19390024066f)
+
 
 ## What is Python?
 
-![Screenshot (282).png](Screenshot_(282).png)
+![Screenshot_(282)](https://github.com/user-attachments/assets/4fa4b417-821d-43fe-a1f0-5a3f2adb7379)
+
 
 - Python is an **interpreted**, **object-oriented**, **high-level** programming language with dynamic semantics.
 - It was created by **Guido van Rossum** and released in **1991** at **CWI [Centrum Wiskunde and Informatica] Research Center, Netherlands**.
@@ -36,7 +39,8 @@
 - **Robust**
 - **Exception Handling**
 
-![Untitled](Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/a77e2029-2223-4731-9262-2978bb9d9dfb)
+
 
 ## [Instructor task: 5min] Discuss Indentation
 
@@ -50,7 +54,8 @@ discuss briefly with examples.
 - Press create repl.
 - A new window will open, On the **left side**, you will find the **code editor** and on the **right side** is the **terminal** where we can see our **output**.
 
-![35 Best Funny Python Programming Memes _ CodeItBro (1).jpg](35_Best_Funny_Python_Programming_Memes___CodeItBro_(1).jpg)
+![35_Best_Funny_Python_Programming_Memes___CodeItBro_(1)](https://github.com/user-attachments/assets/b2054a31-0e94-4f57-a5c3-3b4d7431d1fd)
+
 
 ## How to print or get output in Python?
 
@@ -60,7 +65,8 @@ The `print()` function prints the specified message to the screen or other sta
 
 The message can be **a string** or **any other object**, the object will be converted into a string before being written to the screen.
 
-![Untitled](Untitled%201.png)
+![Untitled 1](https://github.com/user-attachments/assets/af42bdbd-b597-47fa-a87b-26ca2b8204c9)
+
 
 ## **Python Comments**
 
@@ -77,7 +83,8 @@ Variables are containers for storing data values.
 
 ## What are the basic mathematical operations?
 
-![Screenshot (308).png](Screenshot_(308).png)
+![Screenshot_(308)](https://github.com/user-attachments/assets/9c706b84-1c43-4b5e-b11f-f984a1bd306d)
+
 
 The common operators in Javascript are :
 
@@ -92,7 +99,8 @@ Problem: Given a = 15, b = 25 . Calculate sum, difference, product, and division
 
 ### Real-world example
 
-![Untitled](Untitled%202.png)
+![Untitled 2](https://github.com/user-attachments/assets/f2ed8b5a-74e3-48c4-98d9-6f70f4c0d554)
+
 
 - Visit amazon.com, and add some products to the cart.
 - Adding products leads to an increase in the cart price.
@@ -100,7 +108,8 @@ Problem: Given a = 15, b = 25 . Calculate sum, difference, product, and division
 
 ## Modulo Operator(%) [Remainder] [ 20 min ]
 
-![Untitled](Untitled%203.png)
+![Untitled 3](https://github.com/user-attachments/assets/09dd7342-04b9-4e1f-8acc-1b774ea2052a)
+
 
 - When we divide a number into another, there are 4 terms that we need to understand
     - **quotient**
@@ -123,12 +132,14 @@ Problem: Given a = 15, b = 25 . Calculate sum, difference, product, and division
     - Result = 25 % 4 = 1
     - Candidate 25 is assigned to Interview Panel 1.
     
-    ![Screenshot (304).png](Screenshot_(304).png)
+    ![Screenshot_(304)](https://github.com/user-attachments/assets/e696a732-d059-431c-8e12-d3fc5db20a26)
+
     
 
 - **The power of % lies in distributing**
 
-![Untitled](Untitled%204.png)
+![Untitled 4](https://github.com/user-attachments/assets/f0b81b76-1671-44c4-9205-7faf1a52833b)
+
 
 ### Student Task: Google Server Analogy [ 5 min ]
 
@@ -147,7 +158,8 @@ Which server will process the 63rd request?
 
 ### **Difference between * and ****
 
-![Screenshot (305).png](Screenshot_(305).png)
+![Screenshot_(305)](https://github.com/user-attachments/assets/c7aeecc4-0b6f-40a4-8af8-10b12bf02020)
+
 
 ### Student Task: Find Square root using Exponentiation Operator [ 2 min ]
 
@@ -157,7 +169,9 @@ Which server will process the 63rd request?
 
 ## How to Solve long expression? [ 5 min ]
 
-![How.png](How.png)
+<img width="246" alt="How" src="https://github.com/user-attachments/assets/6971b516-16b1-4db4-b374-c454d17f8ee8">
+
+
 
 ### Instructor Task (5 mins): Discuss the steps to solve long expressions using brackets
 
