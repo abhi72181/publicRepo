@@ -10,7 +10,8 @@
 - **Example 2:** Take the **example of teams** that work on specific functionality of an e-commerce site, and then we can connect them later**, and** co-relate it with functions.
 - **Example 3: Old TVs Vs. New TVs**, In old TVs, you have to go to channel numbers 1, 2, and 3 if you want to go to channel 4 using a Knob, but in new TVs, I can directly go to a channel by just pressing the button on the remote.
 
-![tv.PNG](tv.png)
+![tv](https://github.com/user-attachments/assets/f850a2d7-010a-41f0-9f26-155383e0d07e)
+
 
 - **Example 4:** Take them to **Amazon and show them that if I click on a page multiple times, it will open that same page multiple times.**
 
@@ -59,7 +60,8 @@ You perform a function in your day-to-day life.
 
 Suppose whenever you go to Mall or School. You tie your shoes. Tying shoes is a daily activity you every day do. 
 
-![Untitled](Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/a473af32-80de-48a9-a4c9-02079d2d434a)
+
 
 In Tying shoes, there are certain steps, such as
 
@@ -78,7 +80,8 @@ And you follow these steps on a daily basis
 
 Now, suppose the same activity you assigned to the computer or a system to perform
 
-![Untitled](Untitled%201.png)
+![Untitled 1](https://github.com/user-attachments/assets/339a0f9c-2cc7-41fe-a5f5-fdbcb7e8271f)
+
 
 So what you will do you repeat the same steps every day on the computer or a machine.
 
@@ -284,7 +287,8 @@ ironman(10,5); # 2
 > Take the example of **Superman's function** to explain the concept of **Return**. Here **AMMI JAAN = SUPERMAN.**
 > 
 
-![Untitled](Untitled%202.png)
+![Untitled 2](https://github.com/user-attachments/assets/aef45ea3-bbe9-4dfc-82cb-13a2f31b9019)
+
 
 ```python
 #Addition using a def and return statement
@@ -336,14 +340,16 @@ print(step3);  #62.5
 > 
 - **Return** vs. **print()**
 
-![Untitled](Untitled%203.png)
+![Untitled 3](https://github.com/user-attachments/assets/aa9fee3f-00ed-4722-9a42-4ed082dc3fc1)
+
 
 - Talk about **Global Scope** and **Local Scope.**
 
 > Give an example of a Personal Phone and a Public Phone (PCO).
 > 
 
-![Capture.PNG](Capture.png)
+![Capture](https://github.com/user-attachments/assets/277be441-7d19-4b22-b091-3417f38a084b)
+
 
 - Give an example for this on **REPLIT**.
 - Now, it’s time to do the **WE assignment.**
